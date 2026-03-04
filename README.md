@@ -6,21 +6,7 @@ I have hands-on experience in leading frontend teams, delivering programming ins
 
 Passionate about problem-solving, performance optimization, and creating user-centered digital experiences that combine clean design with strong functionality.
 
-📇 Contact
-
-📍 Cairo, Egypt
-📱 +20 155 202 4885
-📧 esraaelsayed2442002@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/esraa-elsayed-78009a225
-
-💻 GitHub: github.com/esraael
-
-🌍 Portfolio: profile-omega-gray.vercel.app
-
-🤝 Volunteering Experience: 3+ Years
-
-💼 Professional Experience
+💼 Professional Experience (Current Roles)
 
 🚀 Project Coordinator
 CherryScale Academy | Part-time, Remote
@@ -45,46 +31,6 @@ July 2025 – Present
 Teaching programming fundamentals through hands-on projects.
 
 Supporting students in building practical real-world applications.
-
-📝 Freelance Coordinator
-E-Youth – Digital Egypt Pioneers Initiative (DPEI) | Remote
-Oct 2024 – Jun 2025
-
-Coordinated digital training programs for youth.
-
-Collaborated with stakeholders to ensure successful program delivery.
-
-🗂 Freelance Coordinator
-almentor – Digital Cubs of Egypt Initiative | Remote
-Jun 2024 – Aug 2025
-
-Managed digital training initiatives.
-
-Coordinated instructors and program activities.
-
-💻 Frontend Instructor (Children & Adults)
-Freelance | Part-time
-July 2024 – Dec 2024
-
-Delivered frontend development lessons using HTML, CSS, JavaScript, and React.js.
-
-Assisted learners in building small projects to strengthen practical skills.
-
-🏅 Head of Frontend Development
-IEEE Al-Azhar University Student Branch
-Oct 2023 – Oct 2024
-
-Led frontend development training sessions.
-
-Supervised student teams and mentored junior developers.
-
-📚 Advanced Java Programming Instructor
-Az-SENCS – Al-Azhar University
-Feb 2022 – Oct 2023
-
-Taught advanced Java programming concepts.
-
-Focused on problem-solving techniques and application development.
 
 🎓 Education
 
@@ -128,8 +74,16 @@ Frontend React.js – SEF Academy
 
 Introduction to Web Technologies – ITI
 
-🌍 Languages
+📇 Contact
 
-Arabic (Native)
+📍 Cairo, Egypt
+📱 +20 155 202 4885
+📧 esraaelsayed2442002@gmail.com
 
-English (Professional Proficiency)
+🔗 LinkedIn: linkedin.com/in/esraa-elsayed-78009a225
+
+💻 GitHub: github.com/esraael
+
+🌍 Portfolio: profile-omega-gray.vercel.app
+
+🤝 Volunteering Experience: 3+ Years
