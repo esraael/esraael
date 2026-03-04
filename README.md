@@ -1,4 +1,4 @@
-# 💫 About Me  
+# About Me  
 
 I’m **Esraa Elsayed**, a passionate **Frontend Developer & Software Engineer** with over 3 years of experience in building scalable, responsive, and high-performance web applications.
 
