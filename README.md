@@ -1,4 +1,4 @@
-# ✨ About Me
+✨ About Me
 
 Results-driven Software Engineer specializing in Frontend Development with over 3 years of experience building responsive, scalable, and high-performance web applications using modern technologies such as HTML, CSS, JavaScript, React.js, and Next.js.
 
@@ -8,21 +8,21 @@ Passionate about problem-solving, performance optimization, and creating user-ce
 
 ---
 
-## 💼 Professional Experience (Current Roles)
+💼 Professional Experience (Current Roles)
 
-### 🚀 Project Coordinator
+🚀 Project Coordinator
 **CherryScale Academy | Part-time, Remote**  
 Feb 2026 – Present  
 - Coordinating and managing educational and technical projects.  
 - Ensuring timely delivery and effective communication between team members.
 
-### 👩‍🏫 Programming Instructor
+👩‍🏫 Programming Instructor
 **ISKY Academy | Part-time, Remote**  
 Sep 2025 – Present  
 - Delivering interactive programming lessons to students.  
 - Guiding students to develop coding, problem-solving, and logical thinking skills.
 
-### 👩‍💻 Programming Instructor
+👩‍💻 Programming Instructor
 **FORASNA Academy | Part-time, Remote**  
 July 2025 – Present  
 - Teaching programming fundamentals through hands-on projects.  
@@ -30,7 +30,7 @@ July 2025 – Present
 
 ---
 
-## 🎓 Education
+🎓 Education
 
 **Bachelor of Engineering**  
 Systems Engineering & Computers – Al-Azhar University  
@@ -39,7 +39,7 @@ GPA: Excellent (Honors Degree)
 
 ---
 
-## 🛠 Technical Skills
+🛠 Technical Skills
 
 **Programming:** Java, C++, JavaScript, TypeScript  
 **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Next.js  
@@ -48,23 +48,23 @@ GPA: Excellent (Honors Degree)
 
 ---
 
-## 📌 Selected Projects
+📌 Selected Projects
 
-### 🎓 Educational Platform – Next.js, TypeScript, Tailwind
+🎓 Educational Platform – Next.js, TypeScript, Tailwind
 Scalable interactive learning platform focused on performance and modular design.  
 🔗 [Demo](https://drive.google.com/file/d/1RPXJYXOihR8LU5qGNfey9MzmhKSr-sz0/view?usp=drive_link)
 
-### 🏥 Clinic Web Application – Next.js, Express.js, MongoDB
+🏥 Clinic Web Application – Next.js, Express.js, MongoDB
 Patient management system with seamless frontend-backend integration.  
 🔗 [Demo](https://drive.google.com/file/d/1r5sv7rAwK8Llpzh5NjCjv2KRO2W9JW3P/view?usp=drive_link)
 
-### 🛒 E-Commerce Platform – HTML, CSS, JavaScript
+🛒 E-Commerce Platform – HTML, CSS, JavaScript
 Dynamic shopping experience with cart functionality and responsive UI.  
 🔗 [Live Demo](https://esraael.github.io/project-with-js/)
 
 ---
 
-## 📜 Certifications
+📜 Certifications
 
 - Frontend React Track – DEPI  
 - Backend Node.js – SEF Academy  
@@ -73,7 +73,7 @@ Dynamic shopping experience with cart functionality and responsive UI.
 
 ---
 
-## 📇 Contact
+📇 Contact
 
 📍 Cairo, Egypt  
 📱 [+20 155 202 4885](tel:+201552024885)  
@@ -85,7 +85,7 @@ Dynamic shopping experience with cart functionality and responsive UI.
 
 ---
 
-## 🌍 Languages
+🌍 Languages
 
 - Arabic (Native)  
 - English (Professional Proficiency)
