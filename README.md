@@ -2,7 +2,7 @@
 
 Results-driven Software Engineer specializing in Frontend Development with over 3 years of experience building responsive, scalable, and high-performance web applications using modern technologies such as HTML, CSS, JavaScript, React.js, and Next.js.
 
-I have hands-on experience in leading frontend teams, delivering programming Instructor, and coordinating digital initiatives. 🚀
+I have hands-on experience in leading frontend teams, delivering programming instruction, and coordinating digital initiatives. 🚀
 
 Passionate about problem-solving, performance optimization, and creating user-centered digital experiences that combine clean design with strong functionality.
 
@@ -78,6 +78,7 @@ Introduction to Web Technologies – ITI
 
 📍 Cairo, Egypt
 📱 +20 155 202 4885
+
 📧 esraaelsayed2442002@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/esraa-elsayed-78009a225
