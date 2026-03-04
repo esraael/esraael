@@ -1,114 +1,128 @@
-Esraa Elsayed
+✨ About Me
 
-Frontend Developer | Software Engineer
+Results-driven Software Engineer specializing in Frontend Development with over 3 years of experience building responsive, scalable, and high-performance web applications using modern technologies such as HTML, CSS, JavaScript, React.js, and Next.js.
+
+I have hands-on experience in leading frontend teams, delivering programming instruction, and coordinating digital initiatives. 🚀
+
+Passionate about problem-solving, performance optimization, and creating user-centered digital experiences that combine clean design with strong functionality.
+
+📇 Contact
 
 📍 Cairo, Egypt
 📱 +20 155 202 4885
 📧 esraaelsayed2442002@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/esraa-elsayed-78009a225
+🔗 LinkedIn: linkedin.com/in/esraa-elsayed-78009a225
 
-💻 GitHub: https://github.com/esraael
+💻 GitHub: github.com/esraael
 
-🌍 Portfolio: https://profile-omega-gray.vercel.app
+🌍 Portfolio: profile-omega-gray.vercel.app
 
 🤝 Volunteering Experience: 3+ Years
 
-✨ About Me
-
-Results-driven Software Engineer specializing in Frontend Development with over 3 years of experience building responsive, scalable, and high-performance web applications using modern technologies such as HTML, CSS, JavaScript, React.js, and Next.js.
-
-I have hands-on experience leading frontend teams, delivering programming Instructor , and coordinating digital initiatives. 🚀 Passionate about problem-solving, performance optimization, and creating user-centered digital experiences that combine clean design with strong functionality.
-
 💼 Professional Experience
-Project Coordinator
+🚀 Project Coordinator
 
 CherryScale Academy | Part-time, Remote
 Feb 2026 – Present
 
-Coordinate and manage educational and technical projects.
+Coordinating and managing educational and technical projects.
 
-Ensure timely delivery and effective communication between teams.
+Ensuring timely delivery and effective communication between team members.
 
-Programming Instructor
+👩‍🏫 Programming Instructor
 
 ISKY Academy | Part-time, Remote
 Sep 2025 – Present
 
-Deliver remote programming sessions with hands-on projects.
+Delivering interactive programming lessons to students.
 
-Support students in developing coding and logical thinking skills.
+Guiding students to develop coding, problem-solving, and logical thinking skills.
 
-Programming Instructor
+👩‍💻 Programming Instructor
 
 FORASNA Academy | Part-time, Remote
 July 2025 – Present
 
-Teach programming fundamentals through interactive sessions.
+Teaching programming fundamentals through hands-on projects.
 
-Guide students in building practical real-world projects.
+Supporting students in building practical real-world applications.
 
-Freelance Coordinator
+📝 Freelance Coordinator
 
 E-Youth – Digital Egypt Pioneers Initiative (DPEI) | Remote
 Oct 2024 – Jun 2025
 
-Coordinated digital skills training programs for youth.
+Coordinated digital training programs for youth.
 
-Collaborated with stakeholders to ensure program success.
+Collaborated with stakeholders to ensure successful program delivery.
 
-Freelance Coordinator
+🗂 Freelance Coordinator
 
 almentor – Digital Cubs of Egypt Initiative | Remote
 Jun 2024 – Aug 2025
 
-Managed digital training initiatives and instructor coordination.
+Managed digital training initiatives.
 
-Frontend Instructor (Children & Adults)
+Coordinated instructors and program activities.
+
+💻 Frontend Instructor (Children & Adults)
 
 Freelance | Part-time
 July 2024 – Dec 2024
 
-Delivered frontend training using HTML, CSS, JavaScript, and React.js.
+Delivered frontend development lessons using HTML, CSS, JavaScript, and React.js.
 
-Head of Frontend Development
+Assisted learners in building small projects to strengthen practical skills.
+
+🏅 Head of Frontend Development
 
 IEEE Al-Azhar University Student Branch
 Oct 2023 – Oct 2024
 
-Led frontend training sessions and supervised student teams.
+Led frontend development training sessions.
 
-Advanced Java Programming Instructor
+Supervised student teams and mentored junior developers.
+
+📚 Advanced Java Programming Instructor
 
 Az-SENCS – Al-Azhar University
 Feb 2022 – Oct 2023
 
-Taught advanced Java programming and problem-solving techniques.
+Taught advanced Java programming concepts.
+
+Focused on problem-solving techniques and application development.
 
 🎓 Education
 
 Bachelor of Engineering
 Systems Engineering & Computers – Al-Azhar University
 Oct 2020 – May 2025
+
 GPA: Excellent (Honors Degree)
 
 🛠 Technical Skills
 
 Programming: Java, C++, JavaScript, TypeScript
 Frontend: HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Next.js
-Backend & Database: Node.js, Express.js, MongoDB
-Core Concepts: OOP, Data Structures, Problem Solving
+Backend & Database: Node.js, Express.js, MongoDB, Firebase
+Core CS Concepts: OOP, Data Structures, Problem Solving
 
 📌 Selected Projects
+🎓 Educational Platform – Next.js, TypeScript, Tailwind
 
-Educational Platform – Next.js, TypeScript, Tailwind
 Scalable interactive learning platform focused on performance and modular design.
+🔗 Demo
 
-Clinic Web Application – Next.js, Express.js, MongoDB
+🏥 Clinic Web Application – Next.js, Express.js, MongoDB
+
 Patient management system with seamless frontend-backend integration.
+🔗 Demo
 
-E-Commerce Platform – HTML, CSS, JavaScript
+🛒 E-Commerce Platform – HTML, CSS, JavaScript
+
 Dynamic shopping experience with cart functionality and responsive UI.
+🔗 Live Demo
 
 📜 Certifications
 
@@ -123,4 +137,5 @@ Introduction to Web Technologies – ITI
 🌍 Languages
 
 Arabic (Native)
+
 English (Professional Proficiency)
