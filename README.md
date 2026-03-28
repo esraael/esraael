@@ -10,6 +10,12 @@ Passionate about problem-solving, performance optimization, and creating user-ce
 
 ## 💼 Professional Experience (Current Roles)
 
+### 👩‍🏫 Programming Instructor
+**Megaminds Academy | Part-time, Remote**  
+Mar 2026 – Present  
+- Delivering interactive programming lessons to students.  
+- Guiding students to develop coding, problem-solving, and logical thinking skills.
+
 ### 🚀 Project Coordinator
 **CherryScale Academy | Part-time, Remote**  
 Feb 2026 – Present  
