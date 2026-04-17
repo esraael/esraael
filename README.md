@@ -1,13 +1,15 @@
 # ✨ About Me
-Software Engineer specializing in Frontend Development with over 3 years of experience building responsive, scalable, and high-performance web applications using modern technologies such as HTML, CSS, JavaScript, React.js, and Next.js.
+Mern Stack Software Engineer with strong experience in building scalable and interactive web applications using Next.js, React, Node.js, Express, and MongoDB. 
 
-I have hands-on experience in leading frontend teams, delivering programming Instructor , and coordinating digital initiatives. 🚀
-
-Passionate about problem-solving, performance optimization, and creating user-centered digital experiences that combine clean design with strong functionality.
-
+Skilled in developing AI-powered educational platforms and real-time systems. Experienced in teaching programming, leading teams, and delivering high-quality digital solutions. Passionate about problem-solving, performance optimization, and creating impactful user experiences.
 ---
 
 ## 💼 Professional Experience (Current Roles)
+### 👩‍💻 Programming Instructor
+**Edubia Academy | Part-time, Remote**  
+Apr 2026 – Present  
+- Teaching programming fundamentals through hands-on projects.  
+- Supporting students in building practical real-world applications.
 
 ### 👩‍🏫 Programming Instructor
 **Megaminds Academy | Part-time, Remote**  
@@ -47,9 +49,10 @@ GPA: Excellent (Honors Degree)
 ## 🛠 Technical Skills
 
 **Programming:** Java, C++, JavaScript, TypeScript  
-**Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Next.js  
+**Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js, Next.js  
 **Backend & Database:** Node.js, Express.js, MongoDB, Firebase  
 **Core CS Concepts:** OOP, Data Structures, Problem Solving
+**Tools:** Git, Github, Vs code , Postman
 
 ---
 
