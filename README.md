@@ -1,14 +1,13 @@
 # ✨ About Me
 
-# MERN Stack Software Engineer
+## MERN Stack Software Engineer
 
-Building scalable web applications using Next.js, React, Node.js, and MongoDB.
+Building scalable web applications with modern technologies.
 
-Experienced in developing AI-powered educational platforms and real-time systems.
-
-Programming instructor with experience in team leadership.
-
-Interested in performance optimization and problem solving.
+- Next.js, React, Node.js, MongoDB  
+- AI-powered systems & real-time applications  
+- Programming instructor & team leadership  
+- Performance optimization & problem solving
 ---
 
 ## 💼 Professional Experience (Current Roles)
