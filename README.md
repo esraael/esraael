@@ -55,8 +55,7 @@ GPA: Excellent (Honors Degree)
 **Programming:** Java, C++, JavaScript, TypeScript  
 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React.js, Next.js  
 **Backend & Database:** Node.js, Express.js, MongoDB, Firebase  
-**Core CS Concepts:** OOP, Data Structures, Problem Solving
-
+**Core CS Concepts:** OOP, Data Structures, Problem Solving 
 **Tools:** Git, Github, Vs code , Postman
 
 ---
