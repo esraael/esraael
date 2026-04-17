@@ -1,7 +1,11 @@
 # ✨ About Me
-**Mern Stack Software Engineer with strong experience in building scalable and interactive web applications using Next.js, React, Node.js, Express, and MongoDB. 
 
-Skilled in developing AI-powered educational platforms and real-time systems. Experienced in teaching programming, leading teams, and delivering high-quality digital solutions. Passionate about problem-solving, performance optimization, and creating impactful user experiences.
+## 🚀 Mern Stack Software Engineer
+
+💻 Building scalable web applications using Next.js, React, Node.js, and MongoDB  
+🤖 AI-powered educational platforms & real-time systems  
+👩‍🏫 Programming Instructor & Team Leader  
+⚡ Passionate about performance optimization & problem solving  
 ---
 
 ## 💼 Professional Experience (Current Roles)
